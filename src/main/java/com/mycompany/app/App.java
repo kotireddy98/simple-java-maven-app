@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "this the main app to deploy onto the servers at this time to contain the max number of devices to the connection to the docker to the add for as the request";
+    private static final String MESSAGE = "this the main app to deploy onto the servers at this time to contain the max number of devices to the connection to the docker to the add for as the request to ";
 
     public App() {}
 
